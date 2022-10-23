@@ -18,3 +18,4 @@ Course 1: Digital Product Management: Modern Fundamentals </a>
 
 1. <a href='https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654' target="_blank">The Design of Everyday Things by Don Norman</a>. This book is an excellent source to learn Product Design. 
 2. <a href='https://www.amazon.com/Agile-Excellence-Product-Managers-Development/dp/160773074X' target="_blank">Agile Excellence for Product Managers by Greg Cohen</a>.
+3. <a href='http://agilemanifesto.org/' target='_blank'>Agile Manifesto</a>
