@@ -61,6 +61,12 @@ author: "Aman Jindal"
 
 <img src='.//Course1_Images/image1.jpg'/>
 
+   1. Agile Manifesto:
+      1. Individual Interactions over Processes/Tools
+      2. Working Software over Comprehensive Documentation
+      3. Customer Collaboration over Contract Negotiation
+      4. Responding to Change over Following a Plan
+
 ## C. Week3: Exploring a new Product Idea:
 
 ## D. Week4: Amplifying an existing Product:
