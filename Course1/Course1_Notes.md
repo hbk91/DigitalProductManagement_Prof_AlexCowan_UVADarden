@@ -18,6 +18,7 @@ author: "Aman Jindal"
 
 1. <a href='https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654' target="_blank">The Design of Everyday Things by Don Norman</a>. This book is an excellent source to learn Product Design. 
 
+
 #### 4. The notes below are based on my learnings in Course 1: Digital Product Management: Modern Fundamentals
 
 <hr style="border:.05px solid black">
@@ -51,6 +52,8 @@ author: "Aman Jindal"
    2. More specifically the above process is: **Product Priorities**->Ideas->Design->Code/Execution->Tests->Deployment->**Released Product**->Experimental Design->Observations->Inferences->**Product Priorities**
    3. Ensure both high Alignment (with Company's objectives) and high Autonomy within the team  (Spotify's mantra for its engineering team)
    4. Any user interacts with the product in the following way: Plan (Reflective)->Specify (Behavioral)->Perform (Visceral). The the user gives the feedback in the following way: Perceive (Visceral) -> Interpret (Behavioral) -> Compare (Reflective) 
+   5. Usability => Prototypes (Balsamiq) => App Analytics => Usability Testing
+   6. DevOps => Testing & Deployment
 
 <img src='.//Images/image1.png'/>
 
