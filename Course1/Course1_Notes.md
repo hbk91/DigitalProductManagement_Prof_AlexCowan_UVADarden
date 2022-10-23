@@ -59,7 +59,7 @@ author: "Aman Jindal"
 
 ## B. Week2: Using Today's Product Manager's Tools:
 
-<img src='.//Course1_Images/image1.png'/>
+<img src='.//Course1_Images/image1.jpg'/>
 
 ## C. Week3: Exploring a new Product Idea:
 
