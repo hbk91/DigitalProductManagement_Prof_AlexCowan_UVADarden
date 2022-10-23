@@ -40,7 +40,7 @@ author: "Aman Jindal"
    2. Desirability is the independent variable. Find the right problems and iterate to the solution to achieve desirability. That is what good Product Managers do.
    3. Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth via iTunes and iTunes store and thus became the market leader.
    4. Go from Scale Friendly to Innovation Friendly. Move from Waterfall structure to Agile structure
-   5. Three most important things for PM are=> Identifying Product-Market Fit,
+   5. Three most important things for PM are=> Identifying Product-Market Fit, Testing those hypothesis with your inter-disciplinary team, and facilitating alignment with external stakeholders
 
 #### 4. Identifying Product-Market Fit:
    1. It is broken into two components => Finding the Right Problem and Finding the Right Solution
@@ -54,6 +54,7 @@ author: "Aman Jindal"
    4. Any user interacts with the product in the following way: Plan (Reflective)->Specify (Behavioral)->Perform (Visceral). The the user gives the feedback in the following way: Perceive (Visceral) -> Interpret (Behavioral) -> Compare (Reflective) 
    5. Usability => Prototypes (Balsamiq) => App Analytics => Usability Testing
    6. DevOps => Testing & Deployment
+   7. 
 
 <img src='.//Images/image1.png'/>
 
