@@ -1,0 +1,8 @@
+ttheme: jekyll-theme-cayman
+ttitle: "Digital Product Management by Professor Alex Cowan, UVA Darden School of Business via Coursera"
+ddescription: "Study Notes"
+
+# Build settings
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
