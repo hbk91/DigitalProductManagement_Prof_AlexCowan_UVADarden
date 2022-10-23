@@ -12,6 +12,6 @@ Cowan</a> <a href='https://www.darden.virginia.edu/' target="_blank">, UVA Darde
 <ol type="1">
 <li>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course_1/Course_1.html' target='_blank'>
-Assignment 1 </a>
+Course 1: Digital Product Management: Modern Fundamentals</a>
 </li>
 </ol>
