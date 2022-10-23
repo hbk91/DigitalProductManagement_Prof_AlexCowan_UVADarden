@@ -1,6 +1,6 @@
-ttheme: jekyll-theme-cayman
-ttitle: "Digital Product Management by Professor Alex Cowan, UVA Darden School of Business via Coursera"
-ddescription: "Study Notes"
+theme: jekyll-theme-cayman
+title: "Digital Product Management by Professor Alex Cowan, UVA Darden School of Business via Coursera"
+description: "Study Notes"
 
 # Build settings
 markdown: kramdown
