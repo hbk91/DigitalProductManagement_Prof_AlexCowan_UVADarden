@@ -23,7 +23,7 @@ author: "Aman Jindal"
 
 <hr style="border:.05px solid black">
 
-## Week1: Tomorrow's Product Manager:
+## Week1: Achieving Focus & Winning:
 
 #### 1. Three objectives of a Product Manager:
    1. Identify Product-market fit Hypothesis that are relevant to the user and testable
@@ -56,11 +56,10 @@ author: "Aman Jindal"
    6. DevOps => Testing & Deployment
    7. 
 
-<img src='.//Images/image1.png'/>
 
-### B. Week2: Being a Product Manager:
+## B. Week2: Using Today's Product Manager's Tools:
 
-### C. Week3: Managing a Product Pipeline:
+## C. Week3: Exploring a new Product Idea:
 
-### D. Week4: Managing Outside Stakeholders:
+## D. Week4: Amplifying an existing Product:
 
