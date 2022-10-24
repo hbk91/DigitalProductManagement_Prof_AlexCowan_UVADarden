@@ -78,7 +78,9 @@ author: "Aman Jindal"
       | Smoke Test       | See if you can sell some            |
    
    5. User Experience Map
-   6.  
+   6. Usability Testing => Exploratory-Assessment-Validation
+   7. Nir Eyal's Hook Framework => Trigger->Action->Variable Reward->Investment
+   8. Customer Funnel => Attention->Interest->Desire->Action->Onboarding 
 
 
 
