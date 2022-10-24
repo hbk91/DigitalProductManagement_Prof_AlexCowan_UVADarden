@@ -77,8 +77,8 @@ author: "Aman Jindal"
       | Wizard of Oz     | Fake the customer experience        |
       | Smoke Test       | See if you can sell some            |
    
-   <br>
-   5. 
+   5. User Experience Map
+   6.  
 
 
 
