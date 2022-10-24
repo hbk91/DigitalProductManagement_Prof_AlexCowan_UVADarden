@@ -76,7 +76,11 @@ author: "Aman Jindal"
       | Wizard of Oz     | Fake the customer experience |
       | Smoke Test       | See if you can sell some |
 
-   
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 ## C. Week3: Exploring a new Product Idea:
 
