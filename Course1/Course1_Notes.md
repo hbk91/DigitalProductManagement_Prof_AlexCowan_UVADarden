@@ -66,6 +66,17 @@ author: "Aman Jindal"
       2. Working Software over Comprehensive Documentation
       3. Customer Collaboration over Contract Negotiation
       4. Responding to Change over Following a Plan
+   
+   2. Design Thinking => Pair Empathy with Creativity
+   3. Personas => Create them using **Think-See-Feel-Do** Framework.
+   4. Minimum Viable Product (MVP) Hypothesis Testing:
+      | MVP Architecture | Notes |
+      | :---             | :---  |
+      | Concierge        | Hand create the customer experience |
+      | Wizard of Oz     | Fake the customer experience |
+      | Smoke Test       | See if you can sell some |
+
+   
 
 ## C. Week3: Exploring a new Product Idea:
 
