@@ -70,17 +70,14 @@ author: "Aman Jindal"
    2. Design Thinking => Pair Empathy with Creativity
    3. Personas => Create them using **Think-See-Feel-Do** Framework.
    4. Minimum Viable Product (MVP) Hypothesis Testing:
-          | Syntax      | Description | Test Text     |
-          | :---        |    :----:   |          ---: |
-          | Header      | Title       | Here's this   |
-          | Paragraph   | Text        | And more      |
-   
+          
       | MVP Architecture | Notes                               |
       | :---             | :---                                |
       | Concierge        | Hand create the customer experience |
       | Wizard of Oz     | Fake the customer experience        |
       | Smoke Test       | See if you can sell some            |
-
+   
+   5. 
 
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
