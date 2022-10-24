@@ -14,12 +14,7 @@ author: "Aman Jindal"
    4. <a href='https://www.coursera.org/learn/uva-darden-agile-analytics?specialization=uva-darden-digital-product-management' target="_blank"> Agile Analytics </a>
    5. <a href='https://www.coursera.org/learn/uva-darden-agile-team-management?specialization=uva-darden-digital-product-management' target="_blank"> Managing an Agile Team </a>
 
-#### 3. Books on Product Management:
-
-1. <a href='https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654' target="_blank">The Design of Everyday Things by Don Norman</a>. This book is an excellent source to learn Product Design. 
-
-
-#### 4. The notes below are based on my learnings in Course 1: Digital Product Management: Modern Fundamentals
+#### 3. The notes below are based on my learnings in Course 1: Digital Product Management: Modern Fundamentals
 
 <hr style="border:.05px solid black">
 
