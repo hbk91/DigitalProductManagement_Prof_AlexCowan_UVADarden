@@ -48,9 +48,7 @@ author: "Aman Jindal"
    3. Ensure both high Alignment (with Company's objectives) and high Autonomy within the team  (Spotify's mantra for its engineering team)
    4. Any user interacts with the product in the following way: Plan (Reflective)->Specify (Behavioral)->Perform (Visceral). The the user gives the feedback in the following way: Perceive (Visceral) -> Interpret (Behavioral) -> Compare (Reflective) 
    5. Usability => Prototypes (Balsamiq) => App Analytics => Usability Testing
-   6. DevOps => Testing & Deployment
-   7. 
-
+   6. DevOps => Testing & Deployment 
 
 ## B. Week2: Using Today's Product Manager's Tools:
 
@@ -75,11 +73,20 @@ author: "Aman Jindal"
    5. User Experience Map
    6. Usability Testing => Exploratory-Assessment-Validation
    7. Nir Eyal's Hook Framework => Trigger->Action->Variable Reward->Investment
-   8. Customer Funnel => Attention->Interest->Desire->Action->Onboarding 
-
-
+   8. Customer Funnel => Attention->Interest->Desire->Action->Onboarding
+   9. Design Sprints 
 
 ## C. Week3: Exploring a new Product Idea:
+
+   1. Customer Discovery => Customer Validation => Customer Creation => Company Building
+   2. We exit Customer Discovery with a MVP (Minimum Viable Product)
+   3. We exit Customer Validation with a Product-Market Fit.
+   4. We exit Customer Creation with Scaling to Customer Building.
+   5. Business Model Canvas.
+   6. Learning Mission vs Scaling Mission.
+   7. **Product Hypothesis**: A certain **Persona** exists, and they have these problem(s), for which they are using these **Alternatives**, and I have this **Value Proposition** that's better enough than the alternatives to cause the **Persona** to act(purchase, use, etc.)
+   8. Horizons of Growth of a Business: **H1**: Existing Business, **H2**: New Tech **or** New Business, **H2**: New Tech **and** New Business. As a PM, you could choose to work on any level depending on your interests/strengths.
+   9. 
 
 ## D. Week4: Amplifying an existing Product:
 
