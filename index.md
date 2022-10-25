@@ -21,3 +21,4 @@ Course 1: Digital Product Management: Modern Fundamentals </a>
 3. <a href='http://agilemanifesto.org/' target='_blank'>Agile Manifesto</a>
 4. <a href='http://theleanstartup.com/book' target='_blank'>The Lean Startup</a>
 5. <a href='https://www.amazon.in/User-Story-Mapping-Jeff-Patton/dp/1491904909' target='_blank'>User Story Mapping by Jeff Patton</a>
+6. <a href='https://www.amazon.in/Testing-Business-Ideas-David-Bland/dp/1119551447' target='_blank'>Testing Business Ideas by David J. Bland and Alex Osterwalder</a>
