@@ -105,7 +105,11 @@ author: "Aman Jindal"
         2.   Have a good skillset.
         3.   Be collaborative.
    3.   Interview with Eric Qi Dong, Product Manager at about.me: Product Market Hypothesis => Validating the Hypothesis => Wireframing => Working Prototype => Internal & User Testing => Partial Production using A/B Testing (release the feature to a small group to users and use A/B Testing) => Full Production. Three important points:
-        1.   Growing the data is not just one team/one person's efforts. Be collaborative
-        2.   Don't underestimate small wins, such as those using A/B testing. Keep on accumulating them.
-        3.    You can't grow your product if you have a bad product-market fit.
-   4. 
+        1. Growing the data is not just one team/one person's efforts. Be collaborative.
+        2. Don't underestimate small wins, such as those using A/B testing. Keep on accumulating them.
+        3. You can't grow your product if you have a bad product-market fit.
+   4. Interview with Kiran Kadambi, Group Product Manager at Ebay Key points:
+         1. For an new PM, the first thing to do is to use the product and if your product is an enterprise product, go talk to your customers.
+         2. Next observe from inside, observe and understand the end-to-end process. What happens in the good scenario and what happens in the bad scenario.
+         3. Key differentiator is how you/your company utilizes the data because everyone has the data. It distills down to asking the right questions.
+         4.  
