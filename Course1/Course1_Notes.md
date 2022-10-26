@@ -99,5 +99,13 @@ author: "Aman Jindal"
 
    <img src='.//Course1_Images/image02.jpg'/>
 
-   1.   Companies are of three types: Infrastructure Driven, Scope-Driven and Product Driven
-   2.   
+   1.   Companies are of three types: Infrastructure Driven, Scope-Driven and Product Driven.
+   2.   Interview with Dr. Tamera Carleton, CEO of Innovation Leadership Group. Three important points about Strategic Foresight for Product Managers:
+        1.   Strategic Foresight is partly a mindset. Be passionate about building better. 
+        2.   Have a good skillset.
+        3.   Be collaborative.
+   3.   Interview with Eric Qi Dong, Product Manager at about.me: Product Market Hypothesis => Validating the Hypothesis => Wireframing => Working Prototype => Internal & User Testing => Partial Production using A/B Testing (release the feature to a small group to users and use A/B Testing) => Full Production. Three important points:
+        1.   Growing the data is not just one team/one person's efforts. Be collaborative
+        2.   Don't underestimate small wins, such as those using A/B testing. Keep on accumulating them.
+        3.    You can't grow your product if you have a bad product-market fit.
+   4. 
