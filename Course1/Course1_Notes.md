@@ -18,7 +18,7 @@ author: "Aman Jindal"
 
 <hr style="border:.05px solid black">
 
-## Week1: Achieving Focus & Winning:
+## A. Week1: Achieving Focus & Winning:
 
 #### 1. Three objectives of a Product Manager:
    1. Identify Product-market fit Hypothesis that are relevant to the user and testable
