@@ -10,7 +10,11 @@ description: "Study Notes by AJ"
 <ol type="1">
 <li>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course1/Course1_Notes.html' target='_blank'>
-Course 1: Digital Product Management: Modern Fundamentals </a>
+Course 1: Digital Product Management: Modern Fundamentals</a>
+</li>
+<li>
+<a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course2/Course2_Notes.html' target='_blank'>
+Course 2: Agile Meets Design Thinking</a>
 </li>
 </ol>
 
