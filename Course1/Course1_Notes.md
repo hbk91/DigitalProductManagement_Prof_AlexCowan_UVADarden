@@ -52,7 +52,7 @@ author: "Aman Jindal"
 
 ## B. Week2: Using Today's Product Manager's Tools:
 
-<img src='.//Course1_Images/image1.jpg'/>
+<img src='.//Course1_Images/image01.jpg'/>
 
    1. Agile Manifesto:
       1. Individual Interactions over Processes/Tools
@@ -97,7 +97,7 @@ author: "Aman Jindal"
 
 ## D. Week4: Amplifying an existing Product:
 
-   <img src='.//Course1_Images/image2.jpg'/>
-   
+   <img src='.//Course1_Images/image02.jpg'/>
+
    1.   Companies are of three types: Infrastructure Driven, Scope-Driven and Product Driven
    2.   
