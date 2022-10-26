@@ -1,6 +1,7 @@
 ---
 title: "Course 2: Agile Meets Design Thinking"
 author: "Aman Jindal"
+description: "Study Notes by AJ"
 ---
 
 ## Introduction:

@@ -1,6 +1,7 @@
 ---
 title: "Course 1: Digital Product Management: Modern Fundamentals"
 author: "Aman Jindal"
+description: "Study Notes by AJ"
 ---
 
 ## Introduction:
