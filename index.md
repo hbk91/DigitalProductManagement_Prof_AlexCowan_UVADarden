@@ -18,7 +18,7 @@ Course 2: Agile Meets Design Thinking</a>
 </li>
 </ol>
 
-* ### The following are insightful books and resources on Product Management:
+* ### The following are some insightful books and resources on Product Management:
 
 1. <a href='https://www.amazon.com/Hypothesis-Driven-Development-Smarter-Product-Management/dp/1944627197' target="_blank">Hypothesis Driven Development by Alex Cowan</a>. This book is an excellent source to learn Product Design. 
 2. <a href='https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654' target="_blank">The Design of Everyday Things by Don Norman</a>. This book is an excellent source to learn Product Design.
