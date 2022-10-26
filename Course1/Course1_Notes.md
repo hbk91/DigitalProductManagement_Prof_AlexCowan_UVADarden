@@ -101,16 +101,33 @@ author: "Aman Jindal"
 
    1. Companies are of three types: Infrastructure Driven, Scope-Driven and Product Driven.
    2. **Interview with Dr. Tamera Carleton, CEO of Innovation Leadership Group**. Three important points about Strategic Foresight for Product Managers:
-        1. Strategic Foresight is partly a mindset. Be passionate about building better. 
-        2. Have a good skillset.
-        3. Be collaborative.
+      1. Strategic Foresight is partly a mindset. Be passionate about building better. 
+      2. Have a good skillset.
+      3. Be collaborative.
    3. **Interview with Eric Qi Dong, Product Manager at about.me**. Product Market Hypothesis => Validating the Hypothesis => Wireframing => Working Prototype => Internal & User Testing => Partial Production using A/B Testing (release the feature to a small group to users and use A/B Testing) => Full Production. Three important points:
-        1. Growing the data is not just one team/one person's efforts. Be collaborative.
-        2. Don't underestimate small wins, such as those using A/B testing. Keep on accumulating them.
-        3. You can't grow your product if you have a bad product-market fit.
+      1. Growing the data is not just one team/one person's efforts. Be collaborative.
+      2. Don't underestimate small wins, such as those using A/B testing. Keep on accumulating them.
+      3. You can't grow your product if you have a bad product-market fit.
    4. **Interview with Kiran Kadambi, Group Product Manager at Ebay.** Key points:
-         1. For an new PM, the first thing to do is to use the product and if your product is an enterprise product, go talk to your customers.
-         2. Next observe from inside, observe and understand the end-to-end process. What happens in the good scenario and what happens in the bad scenario.
-         3. Key differentiator is how you/your company utilizes the data because everyone has the data. It distills down to asking the right questions.
-         4. Don't be afraid of the data if it challenges your notions.
-         5. Make this part of your daily routine. Similar, to the case method at Darden, the more you adopt a data driven approach everyday, the better you get asking the right questions and it creates a good feedback loop.
+      1. For an new PM, the first thing to do is to use the product and if your product is an enterprise product, go talk to your customers.
+      2. Next observe from inside, observe and understand the end-to-end process. What happens in the good scenario and what happens in the bad scenario.
+      3. Key differentiator is how you/your company utilizes the data because everyone has the data. It distills down to asking the right questions.
+      4. Don't be afraid of the data if it challenges your notions.
+      5. Make this part of your daily routine. Similar, to the case method at Darden, the more you adopt a data driven approach everyday, the better you get asking the right questions and it creates a good feedback loop.
+   5. Applying Data Science: Descriptive, Diagnostic, Predictive, Prescriptive
+   6. **Interview with Andrew Kritzer, Product Manager at BookMD.**Key points:
+      1. Dissect some of your products to understand how data science impacts/may impact them.
+      2. Align around a metric. As a product manager, pick a metric that you want to improve ex:. conversion, revenue, or churn. Approach the data science team with goals around that metric. Actual method to improve the metric would be up to the data scientist.
+      3. Bring data scientists into the solution set early.
+   7. **Interview with Jim Rose, CEO of CircleCI.**Key points:
+      1. **Continuous Integration and Continuous Deployment**: They are basically end-to-end automation. It is from the time a developer changes a code to the time when the that code is a running application in the datacenter. **Continuous integration** is integrating the change in the codebase automatically and testing it. Then, **continuous deployment** is pushing those changes actively and automatically in the datacenter.
+      2. It is all about speed of learning. In order to iterate quickly, you need to automate. Get things in small bite sizes.
+      3. You need to define how you measure success and be able to measure that metric when you deploy your code.
+      4. Technical debt is like the remainder of your development equation. It is those informed choices you take, when you try to get the product to the customer quickly or just shortcuts you take to speed up. Assign a separate time for managing technical debt, a line item for maintenance in our delivery systems. 40% of our time for developing new features, 20% of the time for maintenance of existing features, and 20%-30% of the time is unallocated (slack in the system) to deal with unexpected issues.
+      5. Move from monolithic architecture vs microservices as you scale up.
+   8. As your product grows, your product Management team is going to grow. Growth PM: Managing a specific experience, channel or modality. Maybe incharge of privacy or social media of the product.
+   9. **Interview with Nastia Root, Product Manager at Google.**Key points:
+      1. **Growth PM:** Primary objective of a growth PM is to try to increase your user base rather than to add features to the product. Increase all your funnel from the top to the bottom. 
+      2. **How a Growth PM is different from Marketing?** Marketing markets a product but a Growth PM grows a product. For instance, take a feature and experimenting with it. If I add a specific item to the sign up flow, will it increase conversion, will it increase user flow, will it help to sign more users. You look at the whole funnel and you look at each part of the funnel and try to find items where you can do better. Marketing mainly concentrates on how we can reach users and what else is infront of the users.
+      3. **Objectives of Growth PM and how do you define success in the job:** Main objective is grow the userbase. We check the success with how many user are coming in and how many are actually converting. We can compare our conversion rate with that of the market.
+      4.   
