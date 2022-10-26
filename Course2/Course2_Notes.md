@@ -21,6 +21,8 @@ description: "Study Notes by AJ"
 
 ## A. Week1: Problem Agile Solves:
 
+   1. Amazon famously releases every 11.6 seconds. 
+
 ## B. Week2: Focusing your Agile with Personas, Jobs-to-be-Done, and Alternatives:
 
 ## C. Week3: Getting to Great Agile User Stories:
