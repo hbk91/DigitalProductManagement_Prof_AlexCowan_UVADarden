@@ -23,4 +23,11 @@ Course 1: Digital Product Management: Modern Fundamentals </a>
 5. <a href='http://theleanstartup.com/book' target='_blank'>The Lean Startup</a>
 6. <a href='https://www.amazon.in/User-Story-Mapping-Jeff-Patton/dp/1491904909' target='_blank'>User Story Mapping by Jeff Patton</a>
 7. <a href='https://www.amazon.in/Testing-Business-Ideas-David-Bland/dp/1119551447' target='_blank'>Testing Business Ideas by David J. Bland and Alex Osterwalder</a>
-8. <a href='https://www.amazon.in/Made-Stick-Ideas-Survive-Others/dp/1400064287' target='_blank'>Made to Stick by Chip Heath and Dan Heath</a>
+8.  <a href='https://www.amazon.in/Made-Stick-Ideas-Survive-Others/dp/1400064287' target='_blank'>Made to Stick by Chip Heath and Dan Heath</a>
+9.  <a href='https://www.alexandercowan.com/agile-just-basics/' target="_blank">Agile basics by Alex Cowan</a>
+10. <a href='https://www.alexandercowan.com/best-agile-user-story/' target="_blank">Creating your best Agile Story by Alex Cowan</a>
+11. <a href='https://leananalyticsbook.com/' target="_blank">Lean Analytics by Alistair Croll and Benjamin Yoskovitz</a>
+12. <a href='https://www.usersknow.com/books/' target="_blank">UX for Lean Startups by Laura Klein</a>
+13. <a href='https://vimeo.com/237771133' target="_blank">Talk by Lars Nilsson on linking Product/market fit with customer segmentation</a>
+14. <a href='https://testing.googleblog.com/2010/12/test-sizes.html' target="_blank">A note on test sizes</a>
+15. 
