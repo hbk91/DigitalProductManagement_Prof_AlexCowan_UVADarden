@@ -86,7 +86,18 @@ author: "Aman Jindal"
    6. Learning Mission vs Scaling Mission.
    7. **Product Hypothesis**: A certain **Persona** exists, and they have these problem(s), for which they are using these **Alternatives**, and I have this **Value Proposition** that's better enough than the alternatives to cause the **Persona** to act(purchase, use, etc.)
    8. Horizons of Growth of a Business: **H1**: Existing Business, **H2**: New Tech **or** New Business, **H2**: New Tech **and** New Business. As a PM, you could choose to work on any level depending on your interests/strengths.
-   9. 
+   9. Corporate Innovation Pipeline: Idea Generation->Concept Testing->Fledgling Business->Mature Business
+   10. Idea Generation:
+       1.  Subject Interviews: Non-Leading Questions
+       2.  Reverse Hackathons
+       3.  Customer Comments
+       4.  Your consulting and support organization
+       5.  Open Innovation: collaborate with academics, create innovation outposts, companies like <a href='https://www.pilot44.com/' target="_blank">Pilot 44</a> run pilots for your business problems with startups
+       6.  Disruption Catalysts: Keep an eye on those and items adjacent to those fr your industry. For instance, the advent of online streaming was a disruption catalyst for Blockbuster. 
 
 ## D. Week4: Amplifying an existing Product:
 
+   <img src='.//Course1_Images/image2.jpg'/>
+   
+   1.   Companies are of three types: Infrastructure Driven, Scope-Driven and Product Driven
+   2.   
