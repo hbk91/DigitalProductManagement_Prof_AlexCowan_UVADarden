@@ -21,7 +21,39 @@ description: "Study Notes by AJ"
 
 ## A. Week1: Problem Agile Solves:
 
-   1. Amazon famously releases every 11.6 seconds. 
+   1. This course is focused on how we get better inputs in the process. Amazon famously releases every 11.6 seconds.
+   2. You can't project manage your way. There is an interdisciplinary team and collaboration is the key. An interdisciplinary team comprising of Designers, Engineering & QA, Sales and Support, Project Manager, Product Manager, Data Analytics team, others. Create small, self-organizing, interdisciplinary teams.
+   3. Focus on the following:
+      1. The individual with testable narratives
+      2. Frontload Value.
+      3. Outcomes vs Output.
+   4. Agile Manifesto:
+      1. **Individual and Interactions** over processes and tools
+      2. **Working Software** over comprehensive documentation
+      3. **Customer Collaboration** over contract Negotiation.
+      4. **Responding to change** over following a plan.
+   5. **Agile for Managers:**
+      1. Establish Project Charters.
+      2. Develop easy to use test plans to test usability.
+   6. **Agile for Specialists:**
+      1. Developer:
+         1. Learn the actual narrative what the end-user is trying to achieve with a particular feature.
+         2. After the release, ask the right questions. Did the user like it? If they didn't, why didn't they like it?
+      2. Sales:
+         1. Learn how to talk to the rest of the team.
+         2. Give his inputs in more actionable way.
+      3. Designer:
+         1. Life of product is complicated. It has to be marketed, sold, supported, serviced, maintained after release. Hence, designers should be mindful of these considerations as well while designing a product.
+         2. Bring your design thinking to others and help engineering, product managers, project managers, sales to use design tools in practical ways to solve problems.
+   7. **Agile Story**:
+      1. As a **persona**, I want to **do something**, so that I can **derive a reward**. Example: "As a social mom, I want to see if anyone like my Facebook post, so I can decide if I want to go back and look at the post". So the notification from the App/text/email indicating that the post has been liked could have been developed for such a user story.
+   8. Three prominent Agile Methodologies:
+      1. **Scrum:** One of the most prevalent agile methodologies.
+      2. **Extreme Programming (XP):** More focused on coding methodologies extended to Project Management practices. 
+      3. **Kanban:** Set of techniques to reduce Work-in-Progress (WIP).
+
+
+
 
 ## B. Week2: Focusing your Agile with Personas, Jobs-to-be-Done, and Alternatives:
 
