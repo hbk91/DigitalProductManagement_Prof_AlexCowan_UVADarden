@@ -55,7 +55,12 @@ description: "Study Notes by AJ"
       1.  Doing precisely what the user asks _- Wrong Approach_
       2.  Assuming you know the best and ignore the user _- Wrong Approach_
    <br> <img src='.//Course2_Images/image01.jpg'/>
-   10. 
+
+      | Area                                 | Not Agile      | Agile                    |
+      | :---                                 | :---           | :---                     |
+      | Understanding of Valuable Outcomes   | Vague          | Specific                 | 
+      | Inputs                               | Requirements   | Narrative Collaboration  |
+      | Understanding of the User            | Low            | High                     | 
 
 
 
