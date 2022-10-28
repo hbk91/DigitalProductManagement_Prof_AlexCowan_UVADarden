@@ -34,4 +34,4 @@ Course 2: Agile Meets Design Thinking</a>
 12. <a href='https://www.usersknow.com/books/' target="_blank">UX for Lean Startups by Laura Klein</a>
 13. <a href='https://vimeo.com/237771133' target="_blank">Talk by Lars Nilsson on linking Product/market fit with customer segmentation</a>
 14. <a href='https://testing.googleblog.com/2010/12/test-sizes.html' target="_blank">A note on test sizes</a>
-15. 
+15. <a href='https://www.amazon.in/Four-Steps-Epiphany-Successful-Strategies/dp/0989200507'>The Four Steps to the Epiphany by Steve Blank</a>
