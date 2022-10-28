@@ -101,69 +101,62 @@ description: "Study Notes by AJ"
    <img src='.//Course1_Images/image02.jpg'/>
 
    1. Companies are of three types: Infrastructure Driven, Scope-Driven and Product Driven.
-   
    2. **Interview with Dr. Tamera Carleton, CEO of Innovation Leadership Group**. Three important points about Strategic Foresight for Product Managers:
-      1. Strategic Foresight is partly a mindset. Be passionate about building better. 
-      2. Have a good skillset.
-      3. Be collaborative.
+      1.  Strategic Foresight is partly a mindset. Be passionate about building better. 
+      2.  Have a good skillset.
+      3.  Be collaborative.
    
+  
    3. **Interview with Eric Qi Dong, Product Manager at about.me**. Product Market Hypothesis => Validating the Hypothesis => Wireframing => Working Prototype => Internal & User Testing => Partial Production using A/B Testing (release the feature to a small group to users and use A/B Testing) => Full Production. Three important points:
       1. Growing the data is not just one team/one person's efforts. Be collaborative.
       2. Don't underestimate small wins, such as those using A/B testing. Keep on accumulating them.
       3. You can't grow your product if you have a bad product-market fit.
-   
    4. **Interview with Kiran Kadambi, Group Product Manager at Ebay.** Key points:
       1. For an new PM, the first thing to do is to use the product and if your product is an enterprise product, go talk to your customers.
       2. Next observe from inside, observe and understand the end-to-end process. What happens in the good scenario and what happens in the bad scenario.
       3. Key differentiator is how you/your company utilizes the data because everyone has the data. It distills down to asking the right questions.
       4. Don't be afraid of the data if it challenges your notions.
       5. Make this part of your daily routine. Similar, to the case method at Darden, the more you adopt a data driven approach everyday, the better you get asking the right questions and it creates a good feedback loop.
-   
    5. Applying Data Science: Descriptive, Diagnostic, Predictive, Prescriptive
-   
    6. **Interview with Andrew Kritzer, Product Manager at BookMD.** Key points:
       1. Dissect some of your products to understand how data science impacts/may impact them.
       2. Align around a metric. As a product manager, pick a metric that you want to improve ex:. conversion, revenue, or churn. Approach the data science team with goals around that metric. Actual method to improve the metric would be up to the data scientist.
       3. Bring data scientists into the solution set early.
-   
    7. **Interview with Jim Rose, CEO of CircleCI.**Key points:
       1. **Continuous Integration and Continuous Deployment**: They are basically end-to-end automation. It is from the time a developer changes a code to the time when the that code is a running application in the datacenter. **Continuous integration** is integrating the change in the codebase automatically and testing it. Then, **continuous deployment** is pushing those changes actively and automatically in the datacenter.
       2. It is all about speed of learning. In order to iterate quickly, you need to automate. Get things in small bite sizes.
       3. You need to define how you measure success and be able to measure that metric when you deploy your code.
       4. Technical debt is like the remainder of your development equation. It is those informed choices you take, when you try to get the product to the customer quickly or just shortcuts you take to speed up. Assign a separate time for managing technical debt, a line item for maintenance in our delivery systems. 40% of our time for developing new features, 20% of the time for maintenance of existing features, and 20%-30% of the time is unallocated (slack in the system) to deal with unexpected issues.
       5. Move from monolithic architecture vs microservices as you scale up.
-   
-   8. As your product grows, your product Management team is going to grow. Growth PM: Managing a specific experience, channel or modality. Maybe incharge of privacy or social media of the product.
-   
+   8.  As your product grows, your product Management team is going to grow. Growth PM: Managing a specific experience, channel or modality. Maybe incharge of privacy or social media of the product.
    9.  **Interview with Nastia Root, Product Manager at Google.** Key points:
-      1. **Growth PM:** Primary objective of a growth PM is to try to increase your user base rather than to add features to the product. Increase all your funnel from the top to the bottom. 
-      2. **How a Growth PM is different from Marketing?** Marketing markets a product but a Growth PM grows a product. For instance, take a feature and experimenting with it. If I add a specific item to the sign up flow, will it increase conversion, will it increase user flow, will it help to sign more users. You look at the whole funnel and you look at each part of the funnel and try to find items where you can do better. Marketing mainly concentrates on how we can reach users and what else is infront of the users.
-      3. **Objectives of Growth PM and how do you define success in the job:** Main objective is grow the userbase. We check the success with how many user are coming in and how many are actually converting. We can compare our conversion rate with that of the market.
-      4. Growth PM: I am running after users and not running after features as for a mainstream PM. For a growth PM, the product is already sold, now the growth PM has to make the product better and reach more users. Understand why the users are not coming, how we can make the sign-up more smooth for them, what is in the product or we can add that will ake the users come in and stay longer. What specific feature/change to the product will bring the users and make them stay.
-      5. Be a mainstream/regular PM for your first PM role else you will miss the fun of creating a new feature and taking it to the market. There is something very magical about seeing your feature being born and take wings. Brush your SQL skills.
-      6. Top 3 skills for PM/Growth PM:
+       1. **Growth PM:** Primary objective of a growth PM is to try to increase your user base rather than to add features to the product. Increase all your funnel from the top to the bottom.
+       2. **How a Growth PM is different from Marketing?** Marketing markets a product but a Growth PM grows a product. For instance, take a feature and experimenting with it. If I add a specific item to the sign up flow, will it increase conversion, will it increase user flow, will it help to sign more users. You look at the whole funnel and you look at each part of the funnel and try to find items where you can do better. Marketing mainly concentrates on how we can reach users and what else is infront of the users.
+       3. **Objectives of Growth PM and how do you define success in the job:** Main objective is grow the userbase. We check the success with how many user are coming in and how many are actually converting. We can compare our conversion rate with that of the market.
+       4. Growth PM: I am running after users and not running after features as for a mainstream PM. For a growth PM, the product is already sold, now the growth PM has to make the product better and reach more users. Understand why the users are not coming, how we can make the sign-up more smooth for them, what is in the product or we can add that will ake the users come in and stay longer. What specific feature/change to the product will bring the users and make them stay.
+       5. Be a mainstream/regular PM for your first PM role else you will miss the fun of creating a new feature and taking it to the market. There is something very magical about seeing your feature being born and take wings. Brush your SQL skills.
+       6. Top 3 skills for PM/Growth PM:
          1. **Be able to build relationships with people around you.** You may be dependent on other teams which are not under your responsibility. You should be able to negotiate with them and make them feel allied.
          2. **Be very good with data, as much as you can.** So you can look at the data and get the right information.
          3. **Be there for your team.** Make sure your engineers are working with you as best as they can. You are their best friend and not their enemy and it is super-important for any PM to understand.
-
    10. How to have better collaboration and team meetings. As a PM try to achieve the following:
-      1. **Sharing Project Visibility:**
+      6. **Sharing Project Visibility:**
          1. Daily Standup: What did I accomplish yesterday? What will I accomplish today? And what issues are impeding my progress?
          2. If you don't have a dedicated team working on your product, create a project room and agree on a time interval (say 2-5 PM) to work on your product. Put your story map in the room. Storyboard squares, kanban boards (moving your story from idea to completion). These are called **Information Radiators**.
          3. Co-create storyboards. It is very important to do them jointly. One study in the book, "Made to Stick by Chip Heath and Dan Heath" showed that humans understand only a tiny fraction of all the information that they are told as compared to a substantial fraction when they co-create that knowledge. An epic in product management is a group of related development tasks between high-level strategic themes and actionable user stories. Use your story board and epics, to work with your team in a story workshop where the development team writes the child stories.
-      2. **Monitoring deadlines and releases:** 
+      7. **Monitoring deadlines and releases:** 
          1. Have relative priorities, co-create the schedule, don't be super-precise/super-serious.
          2. **Burn-down charts**: You track how you are burning down stories over-time.
-      3.  **Introducing Personas:** 
-         1. It is very important to share with your development team who the user is and what are the user's needs/desires. Letting the developers understand the intersection of desirability with feasibility. 
-         2. **Day in the life Game:** Share some photos/videos of a given persona. Then, make some guesses about them. There are no right answers. **The objective is to get a feel of what's real and introduce the developers to the user, start to create something vivid.** Some questions could be like: "What movie did she last see", "If she had a dog, what kind"? 
-      4.  **Deciding what to build and how.**
-      5.  **Demonstrative software.**
-      6.  **Improving continuously:** Retrospection is one of the most important practice of a successful inter-disciplinary team. It is not assigning blame, but to identify what could be done better next time. 
-         1. What went well? 
-         2. What could have gone better?
-         3. What did we learn?
-         4. **What do we want to (keep, change, discard, add) for next iteration?** _- Most important question_ 
+      8.  **Introducing Personas:** 
+         3. It is very important to share with your development team who the user is and what are the user's needs/desires. Letting the developers understand the intersection of desirability with feasibility. 
+         4. **Day in the life Game:** Share some photos/videos of a given persona. Then, make some guesses about them. There are no right answers. **The objective is to get a feel of what's real and introduce the developers to the user, start to create something vivid.** Some questions could be like: "What movie did she last see", "If she had a dog, what kind"? 
+      9.  **Deciding what to build and how.**
+      10. **Demonstrative software.**
+      11. **Improving continuously:** Retrospection is one of the most important practice of a successful inter-disciplinary team. It is not assigning blame, but to identify what could be done better next time. 
+         5. What went well? 
+         6. What could have gone better?
+         7. What did we learn?
+         8. **What do we want to (keep, change, discard, add) for next iteration?** _- Most important question_ 
    
    11. **Minimum Viable Agenda (MVA):** of a meeting:
        1.  Questions (Timeboxed)
