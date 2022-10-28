@@ -67,6 +67,8 @@ description: "Study Notes by AJ"
       | Culture | Plan | Experimentation |
       | Testing & Validation | Few, far between | Many, frequent |
 
+   10. **Instrumenting Observation** is critical
+
 
 ## B. Week2: Focusing your Agile with Personas, Jobs-to-be-Done, and Alternatives:
 
