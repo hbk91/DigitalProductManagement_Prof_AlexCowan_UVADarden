@@ -63,7 +63,9 @@ description: "Study Notes by AJ"
       | Understanding of the User            | Low            | High                     | 
       | Management                           | Localized Metrics | Team/Project Metrics  |
       | Balme-iness                          | High              | Low                   |
-
+      | Collaboration | Infrequent & Formal | Frequent and easy |
+      | Culture | Plan | Experimentation |
+      | Testing & Validation | Few, far between | Many, frequent |
 
 
 ## B. Week2: Focusing your Agile with Personas, Jobs-to-be-Done, and Alternatives:
