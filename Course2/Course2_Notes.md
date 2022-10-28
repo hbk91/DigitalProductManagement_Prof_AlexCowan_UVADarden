@@ -54,8 +54,8 @@ description: "Study Notes by AJ"
    9. **What makes Agile Hard:**
       1.  Doing precisely what the user asks _- Wrong Approach_
       2.  Assuming you know the best and ignore the user _- Wrong Approach_
-   10. <img src='.//Course2_Images/image01.jpg'/>
-   11. 
+   <br> <img src='.//Course2_Images/image01.jpg'/>
+   10. 
 
 
 
