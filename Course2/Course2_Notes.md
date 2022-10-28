@@ -61,7 +61,8 @@ description: "Study Notes by AJ"
       | Understanding of Valuable Outcomes   | Vague          | Specific                 | 
       | Inputs                               | Requirements   | Narrative Collaboration  |
       | Understanding of the User            | Low            | High                     | 
-
+      | Management                           | Localized Metrics | Team/Project Metrics  |
+      | Balme-iness                          | High              | Low                   |
 
 
 
