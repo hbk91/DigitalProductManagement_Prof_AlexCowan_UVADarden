@@ -35,3 +35,7 @@ Course 2: Agile Meets Design Thinking</a>
 13. <a href='https://vimeo.com/237771133' target="_blank">Talk by Lars Nilsson on linking Product/market fit with customer segmentation</a>
 14. <a href='https://testing.googleblog.com/2010/12/test-sizes.html' target="_blank">A note on test sizes</a>
 15. <a href='https://www.amazon.in/Four-Steps-Epiphany-Successful-Strategies/dp/0989200507'>The Four Steps to the Epiphany by Steve Blank</a>
+16. <a href='https://www.youtube.com/watch?v=5WtB5FRn-Sc' target='_blank'>Youtube Video: Just Enough Research by Erika Hall</a>
+17. <a href='https://www.youtube.com/watch?v=5WtB5FRn-Sc' target='_blank'>Youtube Video: Even more Just Enough Research by Erika Hall</a>
+18. <a href='https://www.alexandercowan.com/customer-discovery-handbook/' target='_blank'>Customer Discovery Handbook by Alex Cowan</a>
+19. 

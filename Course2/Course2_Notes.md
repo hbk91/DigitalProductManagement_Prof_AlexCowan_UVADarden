@@ -68,9 +68,20 @@ description: "Study Notes by AJ"
       | Testing & Validation | Few, far between | Many, frequent |
 
    10. **Instrumenting Observation** is critical
+   11. **TDD: Test-driven Development**
+   12. **XP: Extreme Programming**
 
 
 ## B. Week2: Focusing your Agile with Personas, Jobs-to-be-Done, and Alternatives:
+
+   1. Good Personas should be **VARIED**.
+      1. Vivid
+      2. Actionable
+      3. Real
+      4. Identifiable
+      5. Exact
+      6. Detailed
+   2. Apply **Think, See, Feel, Do** framework for personas. 
 
 ## C. Week3: Getting to Great Agile User Stories:
 
