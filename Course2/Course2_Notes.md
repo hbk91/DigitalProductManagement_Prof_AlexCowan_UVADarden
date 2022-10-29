@@ -98,7 +98,7 @@ description: "Study Notes by AJ"
    | Tell me your **thoughts** about[area]? | How should things ideally be done? How are things done now? How are they done now? |
    | What do you **see** in [area] | How do you learn about what's new? What's happening? Who do you think is doing best? Whose career you would like to emulate? |
    | What do you **feel** about [area] | Tell me about the last time you did a repair? What motivates you? What parts of the job are most rewarding? |
-   | What do you do in [area] | How many jobs do you do in a week? How many hours is that? How much time driving? How much time is billable? |  
+   | What do you **do** in [area] | How many jobs do you do in a week? How many hours is that? How much time driving? How much time is billable? |  
 
   
 
