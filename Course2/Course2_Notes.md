@@ -81,10 +81,19 @@ description: "Study Notes by AJ"
       4. Identifiable
       5. Exact
       6. Detailed
-   2. Apply **Think, See, Feel, Do** framework for personas. 
+   2. Apply **Think, See, Feel, Do** framework for personas.
+   3. Problem Scenarios => Epic Stories => Child Stories => Test Cases
+   4. A Story outline: As a **Persona**, I want to **do something**, so that I can **realize a reward.** 
 
 ## C. Week3: Getting to Great Agile User Stories:
 
+   **Persona Hypothesis:**
+   | Question Type | Questions |
+   | :--- | :--- |
+   | Tell me about yourself/in this role | Tell me about being a Technician? How did you get this job? What do you most/least like about it? What about the job is hard/easy? I have head [x], does that apply to you |
+  
+
 ## D. Week4: Focusing on Customer Value with User Stories:
+
 
    
