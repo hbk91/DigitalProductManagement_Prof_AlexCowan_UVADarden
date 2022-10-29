@@ -92,7 +92,9 @@ description: "Study Notes by AJ"
    | Question Type | Questions |
    | :---          | :---      |     
    | Tell me about yourself/in this role | Tell me about being a Technician? How did you get this job? What do you most/least like about it? What about the job is hard/easy? I have head [x], does that apply to you |
-   | Tell me about your area of interest | Would you say you have a specialty/a particular kind of job you like to do? |
+   | Tell me about your area of interest | Would you say you have a specialty/a particular kind of job you like to do? Tell me about the last job you did? Who else was involved? What was hard/easy about the job? What part of the job could have been done better? |
+   | Tell me your thoughts about[area]? | How should things ideally be done? How are things done now? How are they done now? |
+   | What do you see in [area] | How do you learn |
   
 
 ## D. Week4: Focusing on Customer Value with User Stories:
