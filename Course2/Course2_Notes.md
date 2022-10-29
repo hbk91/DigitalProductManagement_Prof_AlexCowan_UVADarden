@@ -87,7 +87,7 @@ description: "Study Notes by AJ"
 
 ## C. Week3: Getting to Great Agile User Stories:
 
-   #### **Persona Hypothesis:**
+#### **Persona Hypothesis:**
 
    | Question Type | Questions |
    | :---          | :---      |     
