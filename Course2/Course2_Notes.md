@@ -89,12 +89,17 @@ description: "Study Notes by AJ"
 
 #### **Persona Hypothesis:**
 
+* Apply **Think, See, Feel, Do** framework for personas.
+
    | Question Type | Questions |
    | :---          | :---      |     
    | Tell me about yourself/in this role | Tell me about being a Technician? How did you get this job? What do you most/least like about it? What about the job is hard/easy? I have head [x], does that apply to you |
    | Tell me about your area of interest | Would you say you have a specialty/a particular kind of job you like to do? Tell me about the last job you did? Who else was involved? What was hard/easy about the job? What part of the job could have been done better? |
-   | Tell me your thoughts about[area]? | How should things ideally be done? How are things done now? How are they done now? |
-   | What do you see in [area] | How do you learn |
+   | Tell me your **thoughts** about[area]? | How should things ideally be done? How are things done now? How are they done now? |
+   | What do you **see** in [area] | How do you learn about what's new? What's happening? Who do you think is doing best? Whose career you would like to emulate? |
+   | What do you **feel** about [area] | Tell me about the last time you did a repair? What motivates you? What parts of the job are most rewarding? |
+   | What do you do in [area] | How many jobs do you do in a week? How many hours is that? How much time driving? How much time is billable? |  
+
   
 
 ## D. Week4: Focusing on Customer Value with User Stories:
