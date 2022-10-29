@@ -87,10 +87,12 @@ description: "Study Notes by AJ"
 
 ## C. Week3: Getting to Great Agile User Stories:
 
-   **Persona Hypothesis:**
+   #### **Persona Hypothesis:**
+
    | Question Type | Questions |
-   | :--- | :--- |
+   | :---          | :---      |     
    | Tell me about yourself/in this role | Tell me about being a Technician? How did you get this job? What do you most/least like about it? What about the job is hard/easy? I have head [x], does that apply to you |
+   | Tell me about your area of interest | Would you say you have a specialty/a particular kind of job you like to do? |
   
 
 ## D. Week4: Focusing on Customer Value with User Stories:
