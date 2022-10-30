@@ -125,11 +125,12 @@ description: "Study Notes by AJ"
 #### iv. Donald Norman's 7 Steps:
    Goal->**Plan->Specify->Perform->World->Perceive->Interpret->Compare**->Goal
 
-| Goal               ||                  ||             |
-| Plan                | Reflective Layer  | Compare     |
-| Specify             | Behavioral Layer  | Interpret   |
-| Perform             | Visceral Layer    | Perceive    |
-| World              ||                  ||             |
+| Goal              ||                      ||                   |
+| : ---              | :---                  | :---              |
+| Plan &darr;        | Reflective Layer      | Compare &uarr;    |
+| Specify &darr;     | Behavioral Layer      | Interpret &uarr;  |
+| Perform &darr;     | Visceral Layer        | Perceive &uarr;   |
+| World              | World                 | World             |
 
 
 ## D. Week4:
