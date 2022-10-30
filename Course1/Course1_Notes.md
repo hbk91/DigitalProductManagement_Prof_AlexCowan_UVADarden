@@ -139,20 +139,26 @@ description: "Study Notes by AJ"
          1. **Be able to build relationships with people around you.** You may be dependent on other teams which are not under your responsibility. You should be able to negotiate with them and make them feel allied.
          2. **Be very good with data, as much as you can.** So you can look at the data and get the right information.
          3. **Be there for your team.** Make sure your engineers are working with you as best as they can. You are their best friend and not their enemy and it is super-important for any PM to understand. <br>
+   
    10. How to have better collaboration and team meetings. As a PM try to achieve the following:
+
       1. **Sharing Project Visibility:**
          1. Daily Standup: What did I accomplish yesterday? What will I accomplish today? And what issues are impeding my progress?
          2. If you don't have a dedicated team working on your product, create a project room and agree on a time interval (say 2-5 PM) to work on your product. Put your story map in the room. Storyboard squares, kanban boards (moving your story from idea to completion). These are called **Information Radiators**.
          3. Co-create storyboards. It is very important to do them jointly. One study in the book, "Made to Stick by Chip Heath and Dan Heath" showed that humans understand only a tiny fraction of all the information that they are told as compared to a substantial fraction when they co-create that knowledge. An epic in product management is a group of related development tasks between high-level strategic themes and actionable user stories. Use your story board and epics, to work with your team in a story workshop where the development team writes the child stories.
+         
       2. **Monitoring deadlines and releases:** 
          1. Have relative priorities, co-create the schedule, don't be super-precise/super-serious.
          2. **Burn-down charts**: You track how you are burning down stories over-time.
+          
       3.  **Introducing Personas:** 
-         3. It is very important to share with your development team who the user is and what are the user's needs/desires. Letting the developers understand the intersection of desirability with feasibility. 
-         4. **Day in the life Game:** Share some photos/videos of a given persona. Then, make some guesses about them. There are no right answers. **The objective is to get a feel of what's real and introduce the developers to the user, start to create something vivid.** Some questions could be like: "What movie did she last see", "If she had a dog, what kind"? 
+         1. It is very important to share with your development team who the user is and what are the user's needs/desires. Letting the developers understand the intersection of desirability with feasibility. 
+         2. **Day in the life Game:** Share some photos/videos of a given persona. Then, make some guesses about them. There are no right answers. **The objective is to get a feel of what's real and introduce the developers to the user, start to create something vivid.** Some questions could be like: "What movie did she last see", "If she had a dog, what kind"?
+       
       4.  **Deciding what to build and how.**
-      5. **Demonstrative software.**
-      6. **Improving continuously:** Retrospection is one of the most important practice of a successful inter-disciplinary team. It is not assigning blame, but to identify what could be done better next time. 
+      5.  **Demonstrative software.**
+      6.  **Improving continuously:** Retrospection is one of the most important practice of a successful inter-disciplinary team. It is not assigning blame, but to identify what could be done better next time. 
+  
          1. What went well? 
          2. What could have gone better?
          3. What did we learn?
