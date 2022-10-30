@@ -23,6 +23,13 @@ description: "Study Notes by AJ"
 <br>
 <img src='.//Course3_Images/image01.jpg'/>
 
+#### Types of Hypothesis:
+   1. Persona Hypothesis
+   2. Problem/Job to de done (JTBD) Hypothesis
+   3. Demand/Value Hypothesis
+   4. Usability Hypothesis
+   5. Functional Hypothesis
+
 ## B. Week2:
   
 ## C. Week3:
