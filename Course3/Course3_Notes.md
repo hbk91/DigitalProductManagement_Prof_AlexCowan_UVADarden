@@ -111,6 +111,7 @@ description: "Study Notes by AJ"
    1. Always have clear user stories with testable rewards.
    2. Centerpiece of prototyping.
    3. Qualitative usability testing+Analytics based Quantitative Testing
+   4. Isolate Motivation, and test usability
 
 #### ii. Good Design:
    1. The loop of Validated Learning->Understanding->Focus->Consistency->Stay simple
@@ -132,6 +133,11 @@ description: "Study Notes by AJ"
 | Perform &darr;     | **Visceral Layer**        | Perceive &uarr;   |
 | **World** &rarr;       | **World** &rarr;              | **World** &uarr;      |
 
+#### v. Visual Design Program:
+   1. Strategy
+   2. Creation
+   3. Application
+   4. Stewardship
 
 ## D. Week4:
 
