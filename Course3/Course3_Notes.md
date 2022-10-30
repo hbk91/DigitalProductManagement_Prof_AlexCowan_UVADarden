@@ -57,6 +57,14 @@ description: "Study Notes by AJ"
 
 <img src='.//Course3_Images/image2.jpg'/>
 
+#### ii. Customer Acquisition Storyboard: AIDAOR:
+   1. Attention
+   2. Interest
+   3. Desire
+   4. Action
+   5. Onboarding
+   6. Retention
+
 
 ## C. Week3:
   
