@@ -55,7 +55,7 @@ description: "Study Notes by AJ"
 
 <br>
 
-<img src='.//Course3_Images/image2.jpg'/>
+<img src='.//Course3_Images/image02.jpg'/>
 
 #### ii. Customer Acquisition Storyboard: AIDAOR:
    1. Attention
