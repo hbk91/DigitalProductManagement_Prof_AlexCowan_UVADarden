@@ -65,6 +65,10 @@ description: "Study Notes by AJ"
    5. Onboarding
    6. Retention
 
+#### iii. Three main engines of growth and retention:
+   1. Paid
+   2. Viral
+   3. Sticky
 
 ## C. Week3:
   

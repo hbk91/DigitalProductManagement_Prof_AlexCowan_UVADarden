@@ -65,11 +65,11 @@ description: "Study Notes by AJ"
    3. Personas => Create them using **Think-See-Feel-Do** Framework.
    4. Minimum Viable Product (MVP) Hypothesis Testing:
           
-      | MVP Architecture | Notes                               |
-      | :---             | :---                                |
-      | Concierge        | Hand create the customer experience |
-      | Wizard of Oz     | Fake the customer experience        |
-      | Smoke Test       | See if you can sell some            |
+      | MVP Architecture | Notes                               | Depth of Testing | Definitiveness of Results |
+      | :---             | :---                                | :---             | :---                      |
+      | Concierge        | Hand create the customer experience | High             | Low                       |
+      | Wizard of Oz     | Fake the customer experience        | Medium           | Medium                    |
+      | Smoke Test       | See if you can sell some            | Low              | High                      |
    
    5. User Experience Map
    6. Usability Testing => Exploratory-Assessment-Validation
@@ -165,5 +165,4 @@ description: "Study Notes by AJ"
    11. **Roadmaps:**
        1.  Have a vision of your end-goal.
        2.  Objectives and Key results framework. Tie in your results (product goals) to the companies objectives.
-      
       
