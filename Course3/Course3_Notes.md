@@ -69,6 +69,12 @@ description: "Study Notes by AJ"
    1. Paid
    2. Viral
    3. Sticky
+   
+#### iv. Interview with Tristan Kromer, Lean Startup Coach:
+   1. Our minds are biased against testing our own hypothesis, especially for entrepreneurs who are looking to think big and change the world.
+   2. Lean Startup: Learn to doubt yourself, you have to test and validate your assumptions and ideas.
+   3. To think big and to simultaneously test all your ideas/assumptions involves a certain amount of cognitive dissonance.
+   4. You have to do the process of testing with your whole team. 
 
 ## C. Week3:
   
