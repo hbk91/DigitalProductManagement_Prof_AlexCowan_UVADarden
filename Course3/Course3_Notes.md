@@ -30,6 +30,12 @@ description: "Study Notes by AJ"
    4. Usability Hypothesis
    5. Functional Hypothesis
 
+#### Framework of Hypothesis Testing:
+   1. What is it?
+   2. How do you know if you need it?
+   3. How do you test it in one week?
+   4. How do you apply the results to making the product better?
+
 ## B. Week2:
   
 ## C. Week3:
