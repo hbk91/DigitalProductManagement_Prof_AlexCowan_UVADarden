@@ -84,6 +84,10 @@ description: "Study Notes by AJ"
    1. **Strong beliefs but held loosely** is the personality that works best in Lean Startups/Agile. You have a vision, but you are ready to be influences by data: qualitative or quantitative.
    2. Cross-Functional team of designers, engineering, and product together is necessary. Further, the teams need to be dedicated and focussed on the product at hand.
    3. Leaders have to lead with questions, foster a culture of learning, and let bring the team bring in their passion, instead of Leader imposing and saying I know best.
+   4. Daily Standups, culture of experimentation, pivot/persevere/shelve meetings in your agile cadences. 
+   5. Informative Teams: Visual Management, get out of the building, you need to be talking to the real customers
+   6. Teams should have a healthy skepticism of what they are doing. Understanding and interacting with real customers is a hallmark of lean startup.
+   7. All great teams today, understand the Why of the product.
 
 ## C. Week3:
   
