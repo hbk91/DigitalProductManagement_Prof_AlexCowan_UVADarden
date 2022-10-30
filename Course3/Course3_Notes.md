@@ -78,13 +78,12 @@ description: "Study Notes by AJ"
    5. The basic philosophy of a startup is that we are creating knowledge of a new business model.
    6. You have a goal and you are moving in a systematic fashion.
    7. You build a culture of experimentation.
+   8. At large corporations, be careful while applying Lean. In Finance, Healthcare => failure may not be an option. For instance, there can not be something like minimum viable heart-transplant. Use tactics like off-brand testing. Ex. Sony launched an electronic ink watch on Kickstarter anonymously.
 
 #### iv. Interview with David Bland, Founder of Precoil and longtime Agile & Lean Practitioner:
    1. **Strong beliefs but held loosely** is the personality that works best in Lean Startups/Agile. You have a vision, but you are ready to be influences by data: qualitative or quantitative.
    2. Cross-Functional team of designers, engineering, and product together is necessary. Further, the teams need to be dedicated and focussed on the product at hand.
    3. Leaders have to lead with questions, foster a culture of learning, and let bring the team bring in their passion, instead of Leader imposing and saying I know best.
-
-#### iv. Interview with Tristan Kromer, Lean Startup Coach:
 
 ## C. Week3:
   
