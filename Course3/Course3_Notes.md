@@ -95,6 +95,8 @@ description: "Study Notes by AJ"
    12. We have to democratize innovation in the company. Let people self-select and not mandating.
    13. User Stories are the focal point of Agile, and Hypotheses are the focal point of Lean Startup. Have measurable Hypotheses at the Epic story levels. The returns from micro-hypothesis for smaller child stories diminish. So you don't need hypotheses at all levels.
    14. Product Owner use Lean Canvas to articulate the strategy of the product/team. 
+   15. Scrum masters help facilitate the process.
+   16. Sprint Demo: Share the data and discuss the results from features released in earlier sprints.
 
 ## C. Week3:
   

@@ -44,4 +44,4 @@ Course 3: Hypothesis-Driven Development</a>
 18. <a href='https://www.alexandercowan.com/customer-discovery-handbook/' target='_blank'>Customer Discovery Handbook by Alex Cowan</a>
 19. <a href="https://behaviormodel.org/" target='_blank'>Behavioral Model by B.J. Fogg</a>
 20. <a href="Transform your idea into a business" target="_blank">Transform your ideas into a business by David Bland</a>
-21. 
+21. <a href="https://fourweekmba.com/pirate-metrics/" target="_blank">Dave McClure’s Pirate Metrics: The AARRR Funnel In A Nutshell</a>
