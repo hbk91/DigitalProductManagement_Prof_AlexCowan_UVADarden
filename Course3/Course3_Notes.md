@@ -23,21 +23,33 @@ description: "Study Notes by AJ"
 <br>
 <img src='.//Course3_Images/image01.jpg'/>
 
-#### Types of Hypothesis:
+#### i. Types of Hypothesis:
    1. Persona Hypothesis
    2. Problem/Job to de done (JTBD) Hypothesis
    3. Demand/Value Hypothesis
    4. Usability Hypothesis
    5. Functional Hypothesis // Part of Continuous Development (DevOps)
 
-#### Framework of Hypothesis Testing:
+#### ii. Framework of Hypothesis Testing:
    1. What is it?
    2. How do you know if you need it?
    3. How do you test it in one week?
    4. How do you apply the results to making the product better?
 
+#### iii. Design Sprints:
+   1. Keep them collaborative, time bound, and output focussed.
+
+#### iv. Time Boxing:
+   1. Just enough time.
+   2. Show and Tell.
+   3. Dot Voting.
+
 ## B. Week2:
   
+#### Defining a Value Hypothesis:
+
+
+
 ## C. Week3:
   
 ## D. Week4:
