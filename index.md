@@ -45,3 +45,5 @@ Course 3: Hypothesis-Driven Development</a>
 19. <a href="https://behaviormodel.org/" target='_blank'>Behavioral Model by B.J. Fogg</a>
 20. <a href="Transform your idea into a business" target="_blank">Transform your ideas into a business by David Bland</a>
 21. <a href="https://fourweekmba.com/pirate-metrics/" target="_blank">Dave McClure’s Pirate Metrics: The AARRR Funnel In A Nutshell</a>
+22. <a href='https://www.amazon.in/UX-Lean-Start-ups-Experience-Research/dp/9351101355' target="_blank">UX for Lean Startups by Laura Klein</a>
+23. <a href='https://www.alexandercowan.com/create-a-style-guide/' target="_blank">The 25 minute Style guide by Alex Cowan</a>

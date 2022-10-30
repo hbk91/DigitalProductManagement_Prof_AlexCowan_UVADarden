@@ -19,7 +19,7 @@ description: "Study Notes by AJ"
 
 <hr style="border:.05px solid black">
 
-## A. Week1:
+## A. Week1: Hypotheses Testing:
 <br>
 <img src='.//Course3_Images/image01.jpg'/>
 
@@ -44,7 +44,7 @@ description: "Study Notes by AJ"
    2. Show and Tell.
    3. Dot Voting.
 
-## B. Week2:
+## B. Week2: Deep dive into Demand Hypothesis
   
 #### i. The Lean Startup Process: The continuous cycle of Build->Measure->Learn->Build->Measure->Learn
    1. Idea
@@ -96,9 +96,25 @@ description: "Study Notes by AJ"
    13. User Stories are the focal point of Agile, and Hypotheses are the focal point of Lean Startup. Have measurable Hypotheses at the Epic story levels. The returns from micro-hypothesis for smaller child stories diminish. So you don't need hypotheses at all levels.
    14. Product Owner use Lean Canvas to articulate the strategy of the product/team. 
    15. Scrum masters help facilitate the process.
-   16. Sprint Demo: Share the data and discuss the results from features released in earlier sprints.
+   16. **Sprint Demo:** Share the data and discuss the results from features released in earlier sprints.
+   17. I am seeing pairing of design and engineering, engineering and product in interesting ways.
 
-## C. Week3:
+#### v. Interview with Laura Klein, Author of UX for Lean Startups:
+   1. Test your Problem, Solution, and Implementation Assumptions.
+   2. Finding out the places you are wrong is a gift.
+   3. Lean is a loop: So it is not only early-user research, but user research is an ongoing process.
+   4. Let go long-term roadmaps because what you will be doing a year or two from now would depend on the outcomes of the experiments and learnings you gather along the way. 
+
+## C. Week3: Deep dive into Usability Hypothesis
+
+#### i. The Always Test:
+   1. Always have clear user stories with testable rewards.
+   2. Centerpiece of prototyping.
+   3. Qualitative usability testing+Analytics based Quantitative Testing
+
+#### ii. Good Design:
+   The loop of Validated Learning->Understanding->Focus->Consistency->Stay simple
+
   
 ## D. Week4:
 
