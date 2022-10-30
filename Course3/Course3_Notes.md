@@ -104,6 +104,12 @@ description: "Study Notes by AJ"
    2. Finding out the places you are wrong is a gift.
    3. Lean is a loop: So it is not only early-user research, but user research is an ongoing process.
    4. Let go long-term roadmaps because what you will be doing a year or two from now would depend on the outcomes of the experiments and learnings you gather along the way. 
+   5. We need to have good qualitative research to generate good hypothesis. 
+   6. Use quantitative data to assess if the metric you were looking to improve, actually improved.
+   7. You have to constantly combine qualitative (**Why** - understanding the user) and the quantitative (**What and How** - the way user is interacting with your product)
+   8. Always be looking at your data (quantitative) and always be looking at your users (qualitative)
+   9. There is no excuse for internal IT projects failing. Because, every single user is right there in your company. You don't even have to go out of your company. One of the reasons that they fail is because of - *Let's fix all at once* - approach. You have to define your scope very sharply.
+   10. Imbibe the "User-centric" design.
 
 ## C. Week3: Deep dive into Usability Hypothesis
 
@@ -139,7 +145,27 @@ description: "Study Notes by AJ"
    3. Application
    4. Stewardship
 
-## D. Week4:
+#### vi. Order of Testing:
+   1. Exploratory
+   2. Assessment
+   3. Validation
+
+## D. Week4: Functional Hypothesis:
+
+#### i. Continuous Delivery:
+   1. Integrating Development, Testing & Operations (DevOps).
+   2. Make fewer things better.
+
+#### ii. Behavior Driven Development:
+   1. Integrate tests driven by user behavior to test your code.
+   2. Use **Given, When, then pattern**: Given[], when[], then[].
+   
+   | Testing | Scale |
+   | :--- | :--- |
+   | Unit | Small |
+   | Integration | Medium |
+   | System | Large |
+   
 
 
    
