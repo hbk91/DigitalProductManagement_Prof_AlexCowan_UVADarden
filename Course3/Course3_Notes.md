@@ -113,9 +113,25 @@ description: "Study Notes by AJ"
    3. Qualitative usability testing+Analytics based Quantitative Testing
 
 #### ii. Good Design:
-   The loop of Validated Learning->Understanding->Focus->Consistency->Stay simple
+   1. The loop of Validated Learning->Understanding->Focus->Consistency->Stay simple
 
-  
+#### iii. Terminology of Design:
+   1. **Signifier:** What the user understands a feature/product does
+   2. **Affordance:** What the feature/product actually does
+   3. **Constraint:** Limiting the feature/product to be used in only certain ways as per the intended goal
+   4. **Feedback:** The user should be able to understand what's going and tie it back to the Signifier/Affordance
+   5. **Mapping:** Users are able to bridge their understanding between Signifier and Affordance
+
+#### iv. Donald Norman's 7 Steps:
+   Goal->**Plan->Specify->Perform->World->Perceive->Interpret->Compare**->Goal
+
+| Goal               ||                  ||             |
+| Plan                | Reflective Layer  | Compare     |
+| Specify             | Behavioral Layer  | Interpret   |
+| Perform             | Visceral Layer    | Perceive    |
+| World              ||                  ||             |
+
+
 ## D. Week4:
 
 
