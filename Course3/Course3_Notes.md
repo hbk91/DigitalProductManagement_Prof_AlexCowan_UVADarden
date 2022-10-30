@@ -125,7 +125,7 @@ description: "Study Notes by AJ"
 #### iv. Donald Norman's 7 Steps:
    Goal->**Plan->Specify->Perform->World->Perceive->Interpret->Compare**->Goal
 
-| Goal &darr;        | Goal &larr;           | Goa &larr;        |
+| Goal &darr;        | Goal &larr;           | Goal &larr;       |
 | : ---              | :---                  | :---              |
 | Plan &darr;        | **Reflective Layer**      | Compare &uarr;    |
 | Specify &darr;     | **Behavioral Layer**      | Interpret &uarr;  |
