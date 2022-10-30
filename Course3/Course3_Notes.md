@@ -53,6 +53,8 @@ description: "Study Notes by AJ"
    4. Experimentation
    5. Pivot or Persevere
 
+<br>
+
 <img src='.//Course3_Images/image2.jpg'/>
 
 
