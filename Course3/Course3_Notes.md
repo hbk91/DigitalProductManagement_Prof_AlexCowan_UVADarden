@@ -88,6 +88,13 @@ description: "Study Notes by AJ"
    5. Informative Teams: Visual Management, get out of the building, you need to be talking to the real customers
    6. Teams should have a healthy skepticism of what they are doing. Understanding and interacting with real customers is a hallmark of lean startup.
    7. All great teams today, understand the Why of the product.
+   8. **Dave McClure’s Pirate Metrics: The AARRR Funnel**: Acquisition, Activation, Retention, Revenue, and Referral. When you add a feature, introspect which part of the AARRR funnel it is going to impact and then measure that impact. Make product analytics fundamental to your decision making.
+   9. As a team, not be afraid of removing features.
+   10. When introducing lean-startup to your team, focus on something small that you can achieve with your team. This will help in internalizing the importance of Lean. Show results. Lead with the goal, instead of the process to ge the buy-in of people.
+   11. Problem-solution fit to Product-market fit.
+   12. We have to democratize innovation in the company. Let people self-select and not mandating.
+   13. User Stories are the focal point of Agile, and Hypotheses are the focal point of Lean Startup. Have measurable Hypotheses at the Epic story levels. The returns from micro-hypothesis for smaller child stories diminish. So you don't need hypotheses at all levels.
+   14. Product Owner use Lean Canvas to articulate the strategy of the product/team. 
 
 ## C. Week3:
   
