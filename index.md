@@ -18,7 +18,7 @@ Course 2: Agile Meets Design Thinking</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course3/Course3_Notes.html' target='_blank'>
-Course 2: Agile Meets Design Thinking</a>
+Course 3: Hypothesis-Driven Development</a>
 </li>
 </ol>
 
