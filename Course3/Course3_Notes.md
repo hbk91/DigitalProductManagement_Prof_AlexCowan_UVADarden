@@ -46,8 +46,14 @@ description: "Study Notes by AJ"
 
 ## B. Week2:
   
-#### Defining a Value Hypothesis:
+#### i. The Lean Startup Process: The continuous cycle of Build->Measure->Learn->Build->Measure->Learn
+   1. Idea
+   2. Hypothesis
+   3. Experimental Design
+   4. Experimentation
+   5. Pivot or Persevere
 
+<img src='.//Course3_Images/image2.jpg'/>
 
 
 ## C. Week3:
