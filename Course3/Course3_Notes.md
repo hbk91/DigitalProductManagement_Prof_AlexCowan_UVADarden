@@ -28,7 +28,7 @@ description: "Study Notes by AJ"
    2. Problem/Job to de done (JTBD) Hypothesis
    3. Demand/Value Hypothesis
    4. Usability Hypothesis
-   5. Functional Hypothesis
+   5. Functional Hypothesis // Part of Continuous Development (DevOps)
 
 #### Framework of Hypothesis Testing:
    1. What is it?
