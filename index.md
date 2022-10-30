@@ -42,4 +42,6 @@ Course 3: Hypothesis-Driven Development</a>
 16. <a href='https://www.youtube.com/watch?v=5WtB5FRn-Sc' target='_blank'>Youtube Video: Just Enough Research by Erika Hall</a>
 17. <a href='https://www.youtube.com/watch?v=5WtB5FRn-Sc' target='_blank'>Youtube Video: Even more Just Enough Research by Erika Hall</a>
 18. <a href='https://www.alexandercowan.com/customer-discovery-handbook/' target='_blank'>Customer Discovery Handbook by Alex Cowan</a>
-19. <a href=https://behaviormodel.org/" target='_blank'>Behavioral Model by B.J. Fogg</a>
+19. <a href="https://behaviormodel.org/" target='_blank'>Behavioral Model by B.J. Fogg</a>
+20. <a href="Transform your idea into a business" target="_blank">Transform your ideas into a business by David Bland</a>
+21. 

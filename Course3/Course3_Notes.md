@@ -75,6 +75,16 @@ description: "Study Notes by AJ"
    2. Lean Startup: Learn to doubt yourself, you have to test and validate your assumptions and ideas.
    3. To think big and to simultaneously test all your ideas/assumptions involves a certain amount of cognitive dissonance.
    4. You have to do the process of testing with your whole team. 
+   5. The basic philosophy of a startup is that we are creating knowledge of a new business model.
+   6. You have a goal and you are moving in a systematic fashion.
+   7. You build a culture of experimentation.
+
+#### iv. Interview with David Bland, Founder of Precoil and longtime Agile & Lean Practitioner:
+   1. **Strong beliefs but held loosely** is the personality that works best in Lean Startups/Agile. You have a vision, but you are ready to be influences by data: qualitative or quantitative.
+   2. Cross-Functional team of designers, engineering, and product together is necessary. Further, the teams need to be dedicated and focussed on the product at hand.
+   3. Leaders have to lead with questions, foster a culture of learning, and let bring the team bring in their passion, instead of Leader imposing and saying I know best.
+
+#### iv. Interview with Tristan Kromer, Lean Startup Coach:
 
 ## C. Week3:
   
