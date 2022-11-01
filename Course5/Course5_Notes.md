@@ -1,5 +1,5 @@
 ---
-title: "Course 4: Agile Analytics"
+title: "Course 5: Managing an Agile Team"
 author: "Aman Jindal"
 description: "Study Notes by AJ"
 ---
@@ -15,7 +15,7 @@ description: "Study Notes by AJ"
    4. <a href='https://www.coursera.org/learn/uva-darden-agile-analytics?specialization=uva-darden-digital-product-management' target="_blank"> Agile Analytics </a>
    5. <a href='https://www.coursera.org/learn/uva-darden-agile-team-management?specialization=uva-darden-digital-product-management' target="_blank"> Managing an Agile Team </a>
 
-#### 3. The notes below are based on my learnings in Course 4: Agile Analytics
+#### 3. The notes below are based on my learnings in Course 5: Managing an Agile Team
 
 <hr style="border:.05px solid black">
 
@@ -30,18 +30,29 @@ description: "Study Notes by AJ"
    2. **Agile Development**
    3. **Continuous Delivery**
 
-<br>
-<img src='.//Course4_Images/image01.jpg'/>
+### iii. Three popular Agile Methodologies:
+   1. Scrum
+   2. XP (Extreme Programming)
+   3. Kanban
 
-<br>
-<img src='.//Course4_Images/image02.jpg'/>
+### iv. The Job of Software Development:
 
-<br>
+#### a. Learning:
+   1. Collaboration on Product Design Acceptance
+   2. Usability Testing
 
-### iii. Use Storymap to sketch the user's journey with or without the product.
+#### b. Deciding:
+   1. Prioritize and Batch Tasks
+   2. Share out Responsibilities and Tasks
+   3. Manage Work in Progress
+   4. Define and Communicate Release Content
 
-### iv. Analytics:
+#### c. Building:
+   1. Code Creation and Maintenance
+   2. Version Control and Integration
+   3. Maintain Best Practices Architectures and Conventions
+   4. Functional Testing
 
-   1. Demand Analytics
-   2. UX Analytics
-   3. Analytics and Data Science
+#### d. Managing:
+   1. Team Management
+   2. Interface to General Management

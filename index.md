@@ -24,6 +24,10 @@ Course 3: Hypothesis-Driven Development</a>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course4/Course4_Notes.html' target='_blank'>
 Course 4: Agile Analytics</a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course5/Course5_Notes.html' target='_blank'>
+Course 5: Managing an Agile Team</a>
+</li>
 </ol>
 
 * ### The following are some insightful books and resources on Product Management:
