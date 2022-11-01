@@ -35,7 +35,14 @@ description: "Study Notes by AJ"
    2. XP (Extreme Programming)
    3. Kanban
 
-### iv. The Job of Software Development:
+### iv. Five primary jobs in the business of Software Development:
+   1. General Management
+   2. Software Development
+   3. Product Design
+   4. Product/System Support
+   5. Proposition Design
+
+### v. The Job of Software Development:
 
 #### a. Learning:
    1. Collaboration on Product Design Acceptance
