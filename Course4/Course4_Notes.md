@@ -35,7 +35,7 @@ description: "Study Notes by AJ"
 <br>
 <img src='.//Course4_Images/image01.jpg'/>
 <br>
-<img src='.//Course4_Images/image01.jpg'/>
+<img src='.//Course4_Images/image02.jpg'/>
 <br>
 
 ###  
