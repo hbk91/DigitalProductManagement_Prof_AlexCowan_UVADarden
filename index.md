@@ -22,7 +22,7 @@ Course 3: Hypothesis-Driven Development</a>
 </li>
 <li>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course4/Course4_Notes.html' target='_blank'>
-Course 3: Hypothesis-Driven Development</a>
+Course 4: Agile Analytics</a>
 </li>
 </ol>
 
