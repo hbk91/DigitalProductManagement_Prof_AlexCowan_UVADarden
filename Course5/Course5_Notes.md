@@ -42,6 +42,9 @@ description: "Study Notes by AJ"
    4. Product/System Support
    5. Proposition Design
 
+<br>
+<img src='.//Course5_Images/image01.jpg'/>
+
 ### v. The Job of Software Development:
 
 #### a. Learning:
