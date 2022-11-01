@@ -20,6 +20,10 @@ Course 2: Agile Meets Design Thinking</a>
 <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course3/Course3_Notes.html' target='_blank'>
 Course 3: Hypothesis-Driven Development</a>
 </li>
+<li>
+<a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Course4/Course4_Notes.html' target='_blank'>
+Course 3: Hypothesis-Driven Development</a>
+</li>
 </ol>
 
 * ### The following are some insightful books and resources on Product Management:
@@ -46,3 +50,4 @@ Course 3: Hypothesis-Driven Development</a>
 20. <a href="https://www.precoil.com/" target="_blank">Transform your ideas into a business by David Bland</a>
 21. <a href="https://fourweekmba.com/pirate-metrics/" target="_blank">Dave McClure’s Pirate Metrics: The AARRR Funnel In A Nutshell</a>
 22. <a href='https://www.alexandercowan.com/create-a-style-guide/' target="_blank">The 25 minute Style guide by Alex Cowan</a>
+23. <a href='https://www.founderandlightning.com/blog/the-complete-guide-to-smoke-testing'>The 11 smoke test techniques</a>
