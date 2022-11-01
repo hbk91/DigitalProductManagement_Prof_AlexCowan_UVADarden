@@ -19,15 +19,13 @@ description: "Study Notes by AJ"
 
 <hr style="border:.05px solid black">
 
-## A. Week1: Introduction and Customer Analytics:
-
-### Agile Manifesto:
+### i. Agile Manifesto:
    1. **Individual and Interactions** over processes and tools
    2. **Working Software** over comprehensive documentation
    3. **Customer Collaboration** over contract Negotiation.
    4. **Responding to change** over following a plan.
 
-### Three Key aspects of Agile:
+### ii. Three Key aspects of Agile:
    1. **Continuous Design**
    2. **Agile Development**
    3. **Continuous Delivery**
@@ -40,10 +38,10 @@ description: "Study Notes by AJ"
 
 <br>
 
-###  
+### iii. Use Storymap to sketch the user's journey with or without the product.
 
-## B. Week2: Demand Analytics:
+### iv. Analytics:
 
-## C. Week3: UX Analytics:
-
-## D. Week4: Analytics and Data Science:
+   1. Demand Analytics
+   2. UX Analytics
+   3. Analytics and Data Science
