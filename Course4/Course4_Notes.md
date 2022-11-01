@@ -33,12 +33,12 @@ description: "Study Notes by AJ"
    3. **Continuous Delivery**
 
 <br>
-
 <img src='.//Course4_Images/image01.jpg'/>
-
+<br>
+<img src='.//Course4_Images/image01.jpg'/>
 <br>
 
-### 
+###  
 
 ## B. Week2: Demand Analytics:
 
