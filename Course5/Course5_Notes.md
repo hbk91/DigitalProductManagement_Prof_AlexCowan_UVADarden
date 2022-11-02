@@ -66,3 +66,14 @@ description: "Study Notes by AJ"
 #### d. Managing:
    1. Team Management
    2. Interface to General Management
+
+### v. Scrum: Three roles:
+   1. Scrum Master/Agile Coach
+   2. Product Owner
+   3. Development Team
+
+### vi. XP(Extreme Programming): 4 core values:
+   1. Communication
+   2. Simplicity
+   3. Feedback
+   4. Courage
