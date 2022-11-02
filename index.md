@@ -32,9 +32,9 @@ Course 5: Managing an Agile Team</a>
 
 * ### The following are some insightful books and resources on Product Management:
 
-1. <a href='https://www.amazon.com/Hypothesis-Driven-Development-Smarter-Product-Management/dp/1944627197' target="_blank">Hypothesis Driven Development by Alex Cowan</a>. This book is an excellent source to learn Product Design. 
-2. <a href='https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654' target="_blank">The Design of Everyday Things by Don Norman</a>. This book is an excellent source to learn Product Design.
-3. <a href='https://www.amazon.com/Agile-Excellence-Product-Managers-Development/dp/160773074X' target="_blank">Agile Excellence for Product Managers by Greg Cohen</a>.
+1. <a href='https://www.amazon.com/Hypothesis-Driven-Development-Smarter-Product-Management/dp/1944627197' target="_blank">Hypothesis Driven Development by Alex Cowan</a> 
+2. <a href='https://www.amazon.in/Design-Everyday-Things-Don-Norman/dp/0465050654' target="_blank">The Design of Everyday Things by Don Norman</a>
+3. <a href='https://www.amazon.com/Agile-Excellence-Product-Managers-Development/dp/160773074X' target="_blank">Agile Excellence for Product Managers by Greg Cohen</a>
 4. <a href='http://agilemanifesto.org/' target='_blank'>Agile Manifesto</a>
 5. <a href='http://theleanstartup.com/book' target='_blank'>The Lean Startup</a>
 6. <a href='https://www.amazon.in/User-Story-Mapping-Jeff-Patton/dp/1491904909' target='_blank'>User Story Mapping by Jeff Patton</a>
