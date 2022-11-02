@@ -77,3 +77,12 @@ description: "Study Notes by AJ"
    2. Simplicity
    3. Feedback
    4. Courage
+
+### vii. Kanban:
+   Unlike XP or Scrum, Kanban is not STLC( Software Total Life Cycle). However, it is valuable in managing flow. It was originally invented to improve assembly lines. Kanban's six principles are:
+   1. Visualize Workflow
+   2. Limit Work in Progress
+   3. Manage Flows: That ideas and jobs are moving seamlessly
+   4. Be explicit
+   5. Implement Feedback Loops
+   6. Improve Collaboratively and Evolve Experimentally
