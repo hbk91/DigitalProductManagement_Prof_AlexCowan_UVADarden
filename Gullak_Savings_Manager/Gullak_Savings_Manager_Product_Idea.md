@@ -1,7 +1,7 @@
 ---
 title: "Gullak Savings Manager"
 author: "Aman Jindal"
-description: "By Aman Jindal"
+description: "A Robo Wealth Advisor for the Masses"
 ---
 
 

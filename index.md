@@ -30,6 +30,9 @@ Course 5: Managing an Agile Team</a>
 </li>
 </ol>
 
+* ### <a href= 'https://hbk91.github.io/DigitalProductManagement_Prof_AlexCowan_UVADarden/Gullak_Savings_Manager/Gullak_Savings_Manager_Product_Idea.html' target='_blank'>
+Gullak Savings Manager - A Robo Wealth Advisor for the Masses</a>
+
 * ### The following are some insightful books and resources on Product Management:
 
 1. <a href='https://www.amazon.com/Hypothesis-Driven-Development-Smarter-Product-Management/dp/1944627197' target="_blank">Hypothesis Driven Development by Alex Cowan</a> 
