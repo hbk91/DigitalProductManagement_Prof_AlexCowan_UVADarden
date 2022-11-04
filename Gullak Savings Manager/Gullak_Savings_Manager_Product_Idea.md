@@ -13,3 +13,24 @@ description: "By Aman Jindal"
 
 <br>
 <img src='.//Gullak_Savings_Manager/Slide3.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide4.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide5.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide6.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide7.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide8.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide9.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide10.JPG'/>
