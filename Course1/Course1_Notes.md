@@ -86,7 +86,7 @@ description: "Study Notes by AJ"
    5. Business Model Canvas.
    6. Learning Mission vs Scaling Mission.
    7. **Product Hypothesis**: A certain **Persona** exists, and they have these problem(s), for which they are using these **Alternatives**, and I have this **Value Proposition** that's better enough than the alternatives to cause the **Persona** to act(purchase, use, etc.)
-   8. Horizons of Growth of a Business: **H1**: Existing Business, **H2**: New Tech **or** New Business, **H2**: New Tech **and** New Business. As a PM, you could choose to work on any level depending on your interests/strengths.
+   8. Horizons of Growth of a Business: **H1**: Existing Business, **H2**: New Tech **or** New Business, **H3**: New Tech **and** New Business. As a PM, you could choose to work on any level depending on your interests/strengths.
    9. Corporate Innovation Pipeline: Idea Generation->Concept Testing->Fledgling Business->Mature Business
    10. Idea Generation:
        1.  Subject Interviews: Non-Leading Questions
