@@ -34,3 +34,12 @@ description: "A Robo Wealth Advisor for the Masses"
 
 <br>
 <img src='.//Gullak_Savings_Manager/Slide10.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide11.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide12.JPG'/>
+
+<br>
+<img src='.//Gullak_Savings_Manager/Slide13.JPG'/>
