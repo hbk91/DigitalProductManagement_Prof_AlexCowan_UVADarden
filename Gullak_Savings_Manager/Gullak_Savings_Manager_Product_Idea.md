@@ -1,9 +1,12 @@
 ---
 title: "Gullak Savings Manager"
 author: "Aman Jindal"
-description: "A Robo Wealth Advisor for the Masses"
+description: "A Robo Wealth Advisor for the Masses by Aman Jindal"
 ---
 
+# ## Introduction:
+
+#### 1. The pitch deck below presents my vision of a robo wealth advisor for underserved communities. It is based on my learnings in the <a href='https://www.coursera.org/specializations/uva-darden-digital-product-management' target="_blank"> Digital Product Management specialization </a> by <a href='https://www.alexandercowan.com/' target="_blank"> Professor Alex Cowan</a> <a href='https://www.darden.virginia.edu/' target="_blank">, UVA Darden School of Business</a> through Coursera
 
 <br>
 <img src='.//Gullak_Savings_Manager/Slide1.JPG'/>
